@@ -45,7 +45,7 @@ JupiterLab можна встановити [локально](https://jupyter.or
 
 #### Асинхронне програмування
 - asyncio and async/await.
-- веб-додаток з використанням  asyncio
+- веб-додаток з використанням asyncio
 
 #### Websocket
 - Server And Client in Python

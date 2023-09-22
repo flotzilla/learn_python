@@ -12,7 +12,7 @@ JupiterLab можна встановити [локально](https://jupyter.or
 #### Основи
 1. Типи данних, слайсинг
 2. Обробка помилок і дебаг, логування
-3. pip, pep, jupiter notebook
+3. pip, pep, jupyter notebook
 4. Написання ітераторів, використання генераторів, декоратори, контекстний менеджер
   https://docs.python.org/3/library/stdtypes.html#iterator-types
 5. Lambda - Map/Filter/Reduce і серіалізація даних, Pillow, Simplejson
@@ -36,11 +36,9 @@ JupiterLab можна встановити [локально](https://jupyter.or
 - asyncio and async/await.
 - веб-додаток з використанням asyncio, aiohttp
 
-
 #### Написання - розробка розподілених застосунків із мікросервісною архітектурою
 - написання мікросервісів, rpc, серіалізація
 - структура проекту
-
 
 #### OpenCV
 - детектування обьектів, слідкування 

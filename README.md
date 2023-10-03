@@ -13,12 +13,12 @@ JupiterLab можна встановити [локально](https://jupyter.or
 1. Типи данних, слайсинг
 2. Обробка помилок і дебаг, логування
 3. pip, pep, jupyter notebook
-4. Написання ітераторів, використання генераторів, декоратори, контекстний менеджер
-  https://docs.python.org/3/library/stdtypes.html#iterator-types
+4. Написання ітераторів, використання генераторів, вбудовані функції
 5. Lambda - Map/Filter/Reduce і серіалізація даних, Pillow, Simplejson
-6. input данних, argparse, Requests, urllib3, Colorama 
-7. pytest, основи написання тестів 
-8. Написання модуля, wheel
+6. Декоратори, контекстний менеджер
+7. input данних, argparse, Requests, urllib3, Colorama 
+8. pytest, основи написання тестів 
+9. Написання модуля, wheel
 
 #### Алгоритмічні завдання
 - складність алгоритмів, цикли, matplotlib, sklearn
@@ -33,7 +33,7 @@ JupiterLab можна встановити [локально](https://jupyter.or
 - написання програм з використанням локів, тредів, процесів, async/await
 
 #### Асинхронне програмування
-- asyncio and async/await.
+- asyncio and async/await, асинхронні ітератори
 - веб-додаток з використанням asyncio, aiohttp
 
 #### Написання - розробка розподілених застосунків із мікросервісною архітектурою

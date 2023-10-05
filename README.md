@@ -14,16 +14,11 @@ JupiterLab можна встановити [локально](https://jupyter.or
 2. Обробка помилок і дебаг, логування
 3. pip, pep, jupyter notebook
 4. Написання ітераторів, використання генераторів, вбудовані функції
-5. Lambda - Map/Filter/Reduce і серіалізація даних, Pillow, Simplejson
-6. Декоратори, контекстний менеджер
-7. input данних, argparse, Requests, urllib3, Colorama 
+5. Lambda-функції, map(), filter() reduce(). Серіалізація даних, Pillow, Simplejson
+6. Декоратори, контекстний менеджер, датакласи
+7. input данних, читання файлів, argparse, Requests, urllib3, Colorama 
 8. pytest, основи написання тестів 
 9. Написання модуля, wheel
-
-#### Алгоритмічні завдання
-- складність алгоритмів, цикли, matplotlib, sklearn
-- створити структуру данних ? 
-- сортування даних ?
 
 #### REST API
 - на прикладі fastapi або flask
@@ -44,9 +39,10 @@ JupiterLab можна встановити [локально](https://jupyter.or
 - детектування обьектів, слідкування 
 
 #### Websocket
-- Server And Client in Python
+- клієнт і сервер
 
 #### Основи  Data Science,  обробка даних на Python
+- складність алгоритмів, matplotlib, sklearn
 - Python Frameworks: Pytorch/Tensorflow, Numpy, Scikit-Learn - імпорт даних, експорт, нескладні задачі на классифікацію, регрессію, ocr
 - Scrapy - веб-скрапінг
 - pySpark

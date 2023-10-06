@@ -14,7 +14,7 @@ JupiterLab можна встановити [локально](https://jupyter.or
 2. Обробка помилок і дебаг, логування
 3. pip, pep, jupyter notebook
 4. Написання ітераторів, використання генераторів, вбудовані функції
-5. Lambda-функції, map(), filter() reduce(). Серіалізація даних, Pillow, Simplejson
+5. Lambda-оператор, map(), filter() reduce(). Серіалізація даних, Pillow, Simplejson
 6. Декоратори, контекстний менеджер, датакласи
 7. input данних, читання файлів, argparse, Requests, urllib3, Colorama 
 8. pytest, основи написання тестів 
@@ -43,7 +43,7 @@ JupiterLab можна встановити [локально](https://jupyter.or
 
 #### Основи  Data Science,  обробка даних на Python
 19. складність алгоритмів, matplotlib, sklearn
-20. Python Frameworks: Pytorch/Tensorflow, Numpy, Scikit-Learn - імпорт даних, експорт, нескладні задачі на классифікацію, регрессію, ocr
+20. Python Frameworks: Pytorch/Tensorflow, Numpy - імпорт даних, експорт, нескладні задачі на классифікацію, регрессію, ocr
 21. Scrapy - веб-скрапінг
 22. pySpark
 
